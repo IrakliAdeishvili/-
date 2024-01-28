@@ -22,7 +22,7 @@ A single-page web application that displays course information, a horizontally s
 
 ## Screenshots/Demo
 
-![Header Section](imgs\logo.jpg)
+![Header Section](/imgs/logo.jpg)
 
 ## Courses Section
 ![Blockchain](/imgs/Blockchain.jpg)
