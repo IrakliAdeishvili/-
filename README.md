@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # Single Page App - Course Information and FAQs
 
 A single-page web application that displays course information, a horizontally scrolling section, an accordion for FAQs, and a fixed header/footer.
